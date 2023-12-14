@@ -115,7 +115,7 @@
 * [Email](#email)
 * [Entertainment](#entertainment)
 * [Environment](#environment)
-* [Events](#events)
+* [Events](#events)//TODO: Add EventBright API onto bucket list project?
 * [Finance](#finance)
 * [Food & Drink](#food--drink)
 * [Games & Comics](#games--comics)
